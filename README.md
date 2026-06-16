@@ -1,23 +1,17 @@
-<!-- Animated Header -->
+<h1 align="center" style="font-size:45px;">
+ Hi, I'am Shivam Kumar
+</h1>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&customColorList=12,20,24,30" />
+<h3 align="center">
+  Full Stack Developer | JavaScript | React.js | Node.js | MySQL | Mongodb | AWS
+</h3>
+
+<p align="center" style="font-size:10px text-size:40px">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=1200&lines=300%2B+LeetCode+Problems+Solved;Built+BrainPath;Built+Resume+Parser;Built+Flight+Reservation+System;Passionate+About+Scalable+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;300%2B+LeetCode+Problems+Solved;Backend+Development+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30" />
+  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ## 👋 About Me
