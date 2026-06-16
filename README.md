@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:45px;">
- Hi, I'am Shivam Kumar
+ Hi, I'm Shivam Kumar
 </h1>
 
 <h3 align="center">
