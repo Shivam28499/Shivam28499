@@ -1,4 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shivam%20Kumar&fontSize=40)
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8fafc,100:e2e8f0&text=Shivam%20Kumar&fontColor=0f172a&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer&descAlignY=60&descSize=18)
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=I+am+Shivam+Kumar;Full+Stack+Developer;MERN+Stack+Enthusiast;Solved+300%2B+LeetCode+Problems;Passionate+About+Building+Scalable+Applications" />
+</p>
+
+<p align="center">
+  🚀 Full Stack Developer passionate about building scalable web applications <br>
+  💻 Solved 300+ LeetCode problems and continuously improving problem-solving skills <br>
+  🌱 AI Engineering, System Design, and Modern Web Technologies
+</p>
 
 ## 👋 About Me
 
