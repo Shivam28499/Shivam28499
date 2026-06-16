@@ -1,26 +1,24 @@
+<!-- Header Background -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f8fafc,100:e2e8f0&text=Welcome%20to%20My%20Profile&fontColor=0f172a&fontSize=45&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:dbeafe,50:bfdbfe,100:93c5fd&text=&fontColor=1e293b" />
+</p>
+
+<!-- Name Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1500&color=1E293B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B;I'm+Shivam+Kumar" />
+</p>
+
+<!-- Achievement Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;300%2B+LeetCode+Problems;Passionate+About+Backend+Development;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=0F172A&center=true&vCenter=true&width=1000&lines=I;I+am;I+am+Shivam;I+am+Shivam+Kumar" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=15" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=475569&center=true&vCenter=true&width=1200&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Solved+300%2B+LeetCode+Problems;Passionate+About+Backend+Development;Building+Scalable+Web+Applications" />
-</p>
-
-<h3 align="center">
-🚀 Full Stack Developer passionate about building scalable web applications and solving real-world problems.
-</h3>
-
-<h3 align="center">
-💻 Solved 300+ LeetCode problems and continuously improving problem-solving and backend development skills.
-</h3>
-
-<h3 align="center">
-🌱 Currently exploring System Design  and Modern Web Technologies.
-</h3>
 
 ## 👋 About Me
 
