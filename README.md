@@ -1,16 +1,26 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8fafc,100:e2e8f0&text=Shivam%20Kumar&fontColor=0f172a&fontSize=45&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer&descAlignY=60&descSize=18)
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=I+am+Shivam+Kumar;Full+Stack+Developer;MERN+Stack+Enthusiast;Solved+300%2B+LeetCode+Problems;Passionate+About+Building+Scalable+Applications" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:f8fafc,100:e2e8f0&text=Welcome%20to%20My%20Profile&fontColor=0f172a&fontSize=45&fontAlignY=40" />
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer passionate about building scalable web applications <br>
-  💻 Solved 300+ LeetCode problems and continuously improving problem-solving skills <br>
-  🌱 AI Engineering, System Design, and Modern Web Technologies
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=0F172A&center=true&vCenter=true&width=1000&lines=I;I+am;I+am+Shivam;I+am+Shivam+Kumar" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=475569&center=true&vCenter=true&width=1200&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Solved+300%2B+LeetCode+Problems;Passionate+About+Backend+Development;Building+Scalable+Web+Applications" />
+</p>
+
+<h3 align="center">
+🚀 Full Stack Developer passionate about building scalable web applications and solving real-world problems.
+</h3>
+
+<h3 align="center">
+💻 Solved 300+ LeetCode problems and continuously improving problem-solving and backend development skills.
+</h3>
+
+<h3 align="center">
+🌱 Currently exploring System Design  and Modern Web Technologies.
+</h3>
 
 ## 👋 About Me
 
