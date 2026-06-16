@@ -27,10 +27,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
-## 🚀 Projects
-
 - 🧠 BrainPath – AI-powered learning platform (React + Node + RAG + MongoDB)
 - ✈️ Flight Reservation System – Backend system for flight booking, authentication, and reservation management using Node.js, Express, Sequelize, and MySQL
 - 📄 Resume Parser – Extracts structured resume data using backend logic
