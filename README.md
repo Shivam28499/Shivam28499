@@ -1,23 +1,23 @@
-<!-- Header Background -->
+<!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:dbeafe,50:bfdbfe,100:93c5fd&text=&fontColor=1e293b" />
-</p>
-
-<!-- Name Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1500&color=1E293B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B;I'm+Shivam+Kumar" />
-</p>
-
-<!-- Achievement Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;300%2B+LeetCode+Problems;Passionate+About+Backend+Development;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&customColorList=12,20,24,30" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=15" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam+Kumar" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;300%2B+LeetCode+Problems+Solved;Backend+Development+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30" />
 </p>
 
 ## 👋 About Me
